@@ -24,4 +24,4 @@ document.addEventListener("DOMContentLoaded", function() {
         setTimeout(showSlides, 3000); // Change image every 3 seconds
     }
 });
-//test 2
+//test 2 3
